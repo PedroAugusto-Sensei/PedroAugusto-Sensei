@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Technologies and tools
 <div align="center" style="display: inline_block">
   <img align="center" alt="Pedro-Python" height="85" width="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
