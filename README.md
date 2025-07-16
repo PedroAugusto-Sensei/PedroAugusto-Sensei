@@ -1,3 +1,5 @@
+# About me
+Hi! I'm **Pedro Augusto Andreoni Schneider**, a 17-year-old Brazilian student passionate about technology and programming.
 
 # My Stats
 <P align="center">
@@ -26,7 +28,7 @@
   <img align="center" alt="Pedro-SQLite" height="85" width="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
 </div>
 
-# Contact/Find me at:
+# Contact/Find me at
 <div align="center" style="display: inline_block"> 
   <a href="mailto:pedroaugustoas2008@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-augusto-andreoni-schneider-697208375/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
