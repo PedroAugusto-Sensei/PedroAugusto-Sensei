@@ -1,3 +1,9 @@
+
+# My Stats
+<P align="center">
+  <a href="https://github.com/PedroAugusto-Sensei/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PedroAugusto-Sensei&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&align=center" alt="github stats" /></a> <a href="https://github.com/PedroAugusto-Sensei/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugusto-Sensei&layout=compact&theme=dark&hide_border=true" /></a>
+</P> 
+
 # Technologies and tools
 <div align="center" style="display: inline_block">
   <img align="center" alt="Pedro-Python" height="85" width="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
