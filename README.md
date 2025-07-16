@@ -1,5 +1,5 @@
 # About me
-Hi! I'm **Pedro Augusto Andreoni Schneider**, a 17-year-old Brazilian student passionate about technology and programming.
+### Hi! I'm **Pedro Augusto Andreoni Schneider**, a 17-year-old Brazilian student passionate about technology and programming.
 
 # My Stats
 <P align="center">
